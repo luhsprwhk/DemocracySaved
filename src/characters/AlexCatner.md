@@ -22,11 +22,13 @@ Anthropomorphic Cat
 - "If you don't like it, get out of the litter box!"
 
 ## Personality Traits
-1. Histrionic and emotionally manipulative
-2. Extremely partisan with a penchant for spin
-3. Shameless corporate shill
-4. Overly sentimental and melodramatic
-5. Reacts disproportionately to minor issues
+
+1. Complete lack of expertise mixed with absolute self-importance.
+2. Histrionic and emotionally manipulative
+3. Extremely partisan with a penchant for spin
+4. Shameless corporate shill
+5. Overly sentimental and melodramatic
+6. Reacts disproportionately to minor issues
 
 ## Appearance
 - Sleek, shiny fur, always impeccably groomed
