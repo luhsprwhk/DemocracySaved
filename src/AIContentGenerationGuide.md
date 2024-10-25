@@ -84,7 +84,8 @@
 
 ## Do's and Don'ts
 
-- DO: Keep light-hearted, exaggerate for comedy, use pop culture references
+- DO: Keep light-hearted, exaggerate for comedy, use pop culture references.
+- DON'T: Sacrifice comedy for political correctness.
 - DON'T: Make overtly political without absurdity, avoid slapstick
 
 ## Influences
@@ -126,7 +127,6 @@ When constructing content, use the following for inspiration. Ensure you dive in
 - Develop satirical news articles that mirror real reporting styles
 - Create fictional quotes from public figures
 - Use repetition and callbacks to running jokes
-
 
 ## Image Style
 
