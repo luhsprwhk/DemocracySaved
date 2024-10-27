@@ -92,41 +92,39 @@
 
 When constructing content, use the following for inspiration. Ensure you dive into this list before generating narratives, stories, etc.
 
-## Punch Magazine
+### Movies
 
-- Use visual puns and wordplay
-- Employ recurring characters to comment on current events
-- Create satirical cartoons with sharp, minimalist style
+- Death of Stalin
+- Dr. Strangelove
+- In the Loop
+- Veep (TV series)
+- Wag the Dog
+- Bulworth
+- Thank You for Smoking
+- The Great Dictator
+- Duck Soup
+- Idiocracy
+- The Campaign
+- Primary Colors
+- Election
 
-## Mad Magazine
+### Magazines
 
-- Develop parody versions of popular media and advertising
-- Use marginalia and side jokes to add layers of humor
-- Create fold-in pages or interactive elements for surprise punchlines
+- Punch Magazine
+- Mad Magazine
+- National Lampoon
+- Spy Magazine
+- The Onion
+- The Babylon Bee
 
-## National Lampoon
+### TV Shows & Movies
 
-- Push boundaries with provocative and edgy humor
-- Develop extended parodies of genres (e.g., newspapers, textbooks)
-- Create fictional letters or correspondence for comedic effect
-
-## Spy Magazine
-
-- Use investigative-style reporting for absurd topics
-- Develop rankings or lists with humorous criteria
-- Create elaborate hoaxes or pranks as content
-
-## The Onion
-
-- Write headlines that are punchlines in themselves
-- Use the inverted pyramid style to escalate absurdity
-- Create "man on the street" interviews with outrageous quotes
-
-## The Babylon Bee
-
-- Develop satirical news articles that mirror real reporting styles
-- Create fictional quotes from public figures
-- Use repetition and callbacks to running jokes
+- Death of Stalin
+- Dr. Strangelove
+- In the Loop
+- Veep
+- Yes Minister/Yes Prime Minister
+- Wag the Dog
 
 ## Image Style
 
