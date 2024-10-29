@@ -13,7 +13,7 @@ Parody of Alex Wagner (MSNBC)
 
 ## Profession
 
-Professional pundit and senior journalist at MSDNC (Media Sensationalist Division of News Control)
+Professional pundit and senior journalist at MSDNC (Media Sensationalist Division of News Control).
 
 ## Species
 
@@ -32,6 +32,12 @@ Anthropomorphic Cat
 4. Shameless corporate shill
 5. Overly sentimental and melodramatic
 6. Reacts disproportionately to minor issues
+7. Limited and superficial pop culture knowledge:
+   - Relies on movie plot summaries instead of watching films
+   - Gets information primarily from social media headlines and trending topics
+   - Often misquotes or misinterprets popular references
+   - Confidently makes incorrect pop culture analogies during broadcasts
+   - Claims to be "in touch with mainstream culture" despite obvious gaps in knowledge
 
 ## Appearance
 

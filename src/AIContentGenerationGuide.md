@@ -6,11 +6,9 @@
 
 ## Key Characters
 
+- Alex Catner (parody of Alex Wagner)
 - Koala Harris (parody of Kamala Harris)
 - The Orange Man (parody of Donald Trump)
-- P.B Van (parody of JD Vance)
-- Tin Wall (parody of Tim Walz)
-- Alex Catner (parody of Alex Wagner)
 
 ## Tone & Style
 
